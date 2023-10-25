@@ -2,3 +2,4 @@
 sss/* filter=lfs diff=lfs merge=lfs -text
 dds/** filter=lfs diff=lfs merge=lfs -text
 dddd/** filter=lfs diff=lfs merge=lfs -text
+index.html filter=lfs diff=lfs merge=lfs -text
